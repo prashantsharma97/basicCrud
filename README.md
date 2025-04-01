@@ -9,6 +9,8 @@ This is a REST API built with **Node.js, Express, MySQL, and JWT authentication*
 ---
 
 ## **🛠️ Installation & Setup**
+npm install express mysql2 bcryptjs jsonwebtoken dotenv cors body-parser
+
 
 ### 1️⃣ **Clone the Repository**
 ```sh
@@ -30,4 +32,6 @@ CREATE DATABASE your_database_name;
 
 ### 4️⃣ **Start the Server**
 npm run dev
+
+
 
